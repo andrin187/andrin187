@@ -1,16 +1,14 @@
-## Hi there 👋
+## ✉️ About Me
 
-<!--
-**andrin187/andrin187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, my name is Andrin. I am a Data Analyst with expertise in statistics and data analytics. My skills include:
+- Data retrieval and data cleaning using SQL.
+- Data reporting and manipulation with Google Spreadsheet and Excel.
+- Regression analysis modeling with R Statistics.
+- Data visualization and dashboard development with tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tools**
+- R Statistics, SQL, Python, Tableau, Microsoft Office: Powerpoint, Excel, Word, Google Spreadsheets, Maplesoft, LATEX, HTML, MATLAB. 
+
+**💡Fun fact**
+- My New Years goal is to learn tennis in 2025! 🎾
