@@ -10,5 +10,3 @@ Hi, my name is Andrin. I am a Data Analyst with expertise in statistics, mathema
 **🛠️ Tools**
 - R Statistics, SQL, Python, Tableau, Microsoft Office: Powerpoint, Excel, Word, Google Spreadsheets, Maplesoft, LATEX, HTML, MATLAB. 
 
-**💡Fun fact**
-- My New Years goal is to learn tennis in 2025! 🎾
